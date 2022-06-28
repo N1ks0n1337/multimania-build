@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f9d8978.css",
+    "main.js": "/static/js/main.24c6defa.js",
+    "static/media/back.png": "/static/media/back.1d11d9474f74b6c85f4b.png",
+    "static/media/cityLearn.png": "/static/media/cityLearn.3283a98a6fa3b027383f.png",
+    "static/media/backgroundOut.png": "/static/media/backgroundOut.3739d6b62d5a57bdb82b.png",
+    "static/media/BorderImg.svg": "/static/media/BorderImg.eaf88bd0ffca0880a346a7005378ed57.svg",
+    "static/media/border.png": "/static/media/border.1be5a3587e94020cca15.png",
+    "static/media/backgroundHeader.png": "/static/media/backgroundHeader.2946bce2bb47afe46eef.png",
+    "static/media/Yang.png": "/static/media/Yang.2710620624372ed6452a.png",
+    "static/media/Ling.png": "/static/media/Ling.82d6752199ddb2ee5804.png",
+    "static/media/cityBg.png": "/static/media/cityBg.79a873d736b3420351a7.png",
+    "static/media/StickIcon.png": "/static/media/StickIcon.94a8e98c32f4b1787ab9.png",
+    "static/media/SwordIcon.png": "/static/media/SwordIcon.01335e81208d53e63ab8.png",
+    "static/media/BigHero.png": "/static/media/BigHero.23fc2e546b5d5ec7799e.png",
+    "static/media/Sechero.png": "/static/media/Sechero.eb0f480b2a9fd2895ace.png",
+    "static/media/Firsthero.png": "/static/media/Firsthero.4c340c114a229c4e8083.png",
+    "static/media/fifhero.png": "/static/media/fifhero.b0b8478b48b7254c6c4e.png",
+    "static/media/frhero.png": "/static/media/frhero.ae7cda161ed82590e374.png",
+    "static/media/thhero.png": "/static/media/thhero.2b34b0b66bc16df50305.png",
+    "static/media/firsthero.png": "/static/media/firsthero.e8efb271eae2c607fd1d.png",
+    "static/media/eighero.png": "/static/media/eighero.a9f5355b7b558e6ddf17.png",
+    "static/media/sechero.png": "/static/media/sechero.7481d77dc432181fde23.png",
+    "static/media/ninhero.png": "/static/media/ninhero.a8c589d0cece2fdfc1b7.png",
+    "static/media/sevhero.png": "/static/media/sevhero.d4f675e3b8c96f9b2de4.png",
+    "static/media/tenhero.png": "/static/media/tenhero.afebd015ad37c881025d.png",
+    "static/media/sixhero.png": "/static/media/sixhero.8b9ccde747abf000a348.png",
+    "static/media/Woman.png": "/static/media/Woman.e4ec5a22d30c7f1184f6.png",
+    "static/media/LeftStars.gif": "/static/media/LeftStars.f1192b0dd09aaf97013e.gif",
+    "static/media/RightStars.gif": "/static/media/RightStars.f1192b0dd09aaf97013e.gif",
+    "static/media/alert.svg": "/static/media/alert.72b106f9a826fda8407d242d63fc8c58.svg",
+    "index.html": "/index.html",
+    "main.7f9d8978.css.map": "/static/css/main.7f9d8978.css.map",
+    "main.24c6defa.js.map": "/static/js/main.24c6defa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f9d8978.css",
+    "static/js/main.24c6defa.js"
+  ]
+}
